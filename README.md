@@ -1,1 +1,2 @@
 # CNN_ImageRecognition
+抓取時尚網站WEAR不同風格的穿搭以CNN進行辨識
